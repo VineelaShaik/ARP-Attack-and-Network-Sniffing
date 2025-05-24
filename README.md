@@ -1,6 +1,6 @@
 # ARP-Attack-and-Network-Sniffing
-## Name: Shanmuga Raj.K
-## Reg no: 212223040192
+## Name: Vineela Shaik
+## Reg no: 212223040243
 # Explore Network Sniffing and ARP Attacks
 # AIM:
 To explore network sniffing and ARP Attacks
